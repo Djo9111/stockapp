@@ -78,7 +78,7 @@ C'est l'historique de toutes les opérations effectuées sur le stock.
 - `date_mouvement` : Date de l'opération
 - `quantite` : Quantité concernée
 - `prix_vente_unitaire` : Prix de vente (pour les sorties)
-- `type` : Type d'opération (`ENTREE`, `SORTIE`, `AJUSTEMENT`)
+- `type` : Type d'opération (`ENTREE`, `SORTIE`)
 
 Chaque mouvement est tracé et permet de reconstituer l'historique complet du stock.
 
@@ -191,22 +191,3 @@ Le modèle est conçu pour évoluer facilement :
 
 ---
 
-## 📚 Documentation
-
-La documentation complète du projet est disponible dans le dossier `/docs`.
-
----
-
-## 👨‍💻 Contribution
-
-Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou proposer une pull request.
-
----
-
-## 📄 Licence
-
-Ce projet est sous licence MIT.
-
----
-
-**Développé avec ❤️ pour faciliter la gestion de stock**
