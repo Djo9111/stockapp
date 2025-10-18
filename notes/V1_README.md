@@ -29,7 +29,7 @@ Le système repose sur quatre entités principales qui travaillent ensemble pour
 
 **Modèle Physique de Données (MPD)**
 
-![MPD](images/mpd.png)
+![MPD](../images/mpd.png)
 
 ---
 
