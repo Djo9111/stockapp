@@ -191,3 +191,25 @@ Le modèle est conçu pour évoluer facilement :
 
 ---
 
+## Pilotage 
+
+### Backlog
+
+Un backlog produit est une liste hiérarchisée et dynamique de tout ce qui doit être fait pour un produit, incluant les nouvelles fonctionnalités, les améliorations, les corrections de bugs et les dettes techniques. C'est un artefact central de la méthode agile Scrum, géré par le Product Owner, qui sert de référence unique et flexible pour l'équipe de développement. Les éléments du backlog sont classés par ordre de priorité afin de déterminer les tâches à réaliser en premier.
+
+#### Caractéristiques clés
+
+**Liste hiérarchisée** : Les éléments sont ordonnés par priorité, les plus importants en haut de la liste.
+**Contenu varié** : Il contient des fonctionnalités, des corrections de bugs, des améliorations techniques et des tâches d'exploration.
+Responsabilité du Product Owner : C'est le Product Owner qui est responsable de sa tenue, de son évolution et de son enrichissement.
+**Flexibilité** : Le backlog est un document vivant qui s'adapte aux changements, aux retours clients et aux nouvelles priorités.
+**Planification** : Il sert de base pour créer le « backlog de sprint », qui est un sous-ensemble du backlog produit sélectionné pour une itération spécifique.
+
+#### Pourquoi est-il important ?
+
+Vision partagée : Il donne une vision claire de la direction à suivre pour l'équipe de développement et les parties prenantes.
+Priorisation : Il permet de se concentrer sur les éléments qui apportent le plus de valeur à l'utilisateur et aux objectifs stratégiques de l'entreprise.
+Gestion des exigences : Il centralise toutes les exigences et les demandes relatives au produit en un seul endroit.
+Amélioration continue : Il permet de gérer et de prioriser la résolution des dettes techniques, qui peuvent autrement s'accumuler et ralentir le développement.
+
+Un backlog produit est une liste hiérarchisée de tâches destinées à l'équipe de développement. Il est créé à partir de la feuille de route produit et de ses exigences. Les éléments les plus importants figurent en tête du backlog produit. Ainsi, l'équipe sait ce qu'elle doit livrer en priorité. L'équipe de développement ne suit pas le backlog au rythme du Product Owner et celui-ci n'impose pas de tâches à l'équipe de développement. Cette dernière récupère les tâches à réaliser dans le backlog produit en fonction de ses capacités, soit en continu (Kanban), soit par itération (Scrum).
