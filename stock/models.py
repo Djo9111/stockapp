@@ -14,6 +14,9 @@ class Produit(models.Model):
     def __str__(self):
         return self.nom
 
+    
+    # Property (attribut calculé)
+    # sert à transformer une méthode en attribut accessible sans parenthèses
     @property
     def stockPdt(self):
         return self.stock
