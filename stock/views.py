@@ -14,6 +14,7 @@ def liste_produits(request):
 def ajouter_produit(request):
     """Ajoute un nouveau produit"""
     if request.method == 'POST':
+        # crée un formulaire avec les données envoyées
         form = ProduitForm(request.POST)
         if form.is_valid():
             form.save()
