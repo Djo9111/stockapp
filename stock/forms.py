@@ -10,6 +10,6 @@ class ProduitForm(forms.ModelForm):
             'stock': 'Quantité en stock'
         }
         widgets = {
-            'nom': forms.TextInput(attrs={'class': 'form-control'}),
+            'nom': forms.TextInput(attrs={'class': 'form-control', 'placeholder':'Mettez le nom ou libellé'}),
             'stock': forms.NumberInput(attrs={'class': 'form-control'})
         }
